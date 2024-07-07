@@ -15,7 +15,7 @@
 - JavaScript
 - React.Js
 - SolidJs
-- Node.Js
+
 
 <!--
 **farzanehFathi/farzanehFathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
