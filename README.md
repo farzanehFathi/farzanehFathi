@@ -1,9 +1,10 @@
 ## Hi there, This is Farzaneh 👋
 
-### 👩‍💻:
-- Used to be a MERN stack learner and Python coder.
-- Starting over with examining different tech fields.
-- Passionate about merging my educational background (Architecture and Building Sciences) with tech to create tools for high-performance building design.
+### 👩‍💻 A Little About Me:
+- Took my first steps in tech with the MERN stack and Python.
+- Starting fresh—exploring different areas to see what clicks.
+- Working in sales and marketing.
+- Focused on solving real problems in my industry through tech.
 
 
 ### 💪 Confident with:
@@ -14,7 +15,9 @@
 - Ant Design
 
 ### 🌱 Working on:
+- Python
 - JavaScript
+- TypeScript
 - React.Js
 - SolidJs
 
