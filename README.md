@@ -7,9 +7,9 @@
 - Focused on solving real problems in my industry through tech.
 
 ### 🧪 Experiments in Progress:
-- Front-end Dev
-- Data Sciences
-- UI design
+- Front-end Development 
+- Data Science
+- UI Design
 
 ### 💪 Confident with:
 - HTML
