@@ -1,15 +1,17 @@
 ## Hi there, This is Farzaneh 👋
 
-### 👩‍💻 I am:
-- An aspiring front-end developer with a degree in energy and architecture. 
-- Passionate about merging my educational background with coding to create tools for high-performance building design.
-- Currently working on [LINK](https://linkarkitectur.netlify.app/) website project to enhance my coding skills.
+### 👩‍💻:
+- Used to be a MERN stack learner and Python coder.
+- Starting over with examining different tech fields.
+- Passionate about merging my educational background (Architecture and Building Sciences) with tech to create tools for high-performance building design.
+
 
 ### 💪 Confident with:
 - HTML
 - CSS
 - Tailwind
 - Bootstrap
+- Ant Design
 
 ### 🌱 Working on:
 - JavaScript
