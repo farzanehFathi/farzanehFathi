@@ -6,6 +6,10 @@
 - Working in sales and marketing.
 - Focused on solving real problems in my industry through tech.
 
+### 🧪 Experiments in Progress:
+- Front-end Dev
+- Data Sciences
+- UI design
 
 ### 💪 Confident with:
 - HTML
@@ -20,6 +24,13 @@
 - TypeScript
 - React.Js
 - SolidJs
+
+### 🏆 Rookie Trophies:
+- [SWAPI](https://swapi2024.netlify.app/) 
+- [The Bars](https://thebars.netlify.app/)
+- [Link Arkitectur](https://linkarkitectur.netlify.app/)
+- [My Writing Portfolio](https://capable-sopapillas-c82df1.netlify.app/)
+- [This is Dobby](https://phenomenal-alpaca-fca40e.netlify.app/)
 
 
 <!--
